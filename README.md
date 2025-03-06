@@ -105,14 +105,19 @@ Scoob: O Microsoft Copilot Studio é uma ferramenta para criar e gerenciar chatb
 O chatbot continuará respondendo às suas perguntas até que você decida sair digitando 'sair'.
 
 Estrutura do Projeto
-bash
-Copiar
 copilot-chatbot/
 │
+
 ├── copilot.py             # Script principal para rodar o ChatBot
+
 ├── requirements.txt       # Arquivo de dependências
+
 └── README.md              # Este arquivo
-Contribuições
+
+
+### Contribuições
+
+
 Se você deseja contribuir com o projeto, siga estas etapas:
 
 Faça um fork deste repositório.
